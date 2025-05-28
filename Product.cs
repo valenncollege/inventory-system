@@ -41,8 +41,8 @@ namespace Inventory_System
             string output = "Name : " + this.Name + "\n" +
                 "Price : " + this.Price + "\n" +
                 "Stock : " + this.Stock + "\n" +
-                "Product Image : " + this.DisplayListImage() + "\n" +
-                "Supplier : " + this.DisplaySupplier() + "\n";
+                "Product Image : " + "\n" + this.DisplayListImage() + "\n" +
+                "Supplier : " + "\n" + this.DisplaySupplier() + "\n";
             return output;
         }
         public string DisplayListImage()
@@ -50,9 +50,8 @@ namespace Inventory_System
             string output ="";
             foreach (ProductImage i in this.ListImage)
             {
-                output = output + i.FileName;
+                output = output + i.FileName+ "\n";
             }
-            output = output + "\n";
             return output;
         }
         public string DisplaySupplier()
@@ -60,9 +59,8 @@ namespace Inventory_System
             string output = "";
             foreach (Supplier i in this.ListSupplier)
             {
-                output = output + i.Name;
+                output = output + i.Name + "\n";
             }
-            output = output + "\n";
             return output;
         }
     }
