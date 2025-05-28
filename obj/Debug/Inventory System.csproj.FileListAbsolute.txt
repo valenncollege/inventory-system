@@ -1,0 +1,16 @@
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\bin\Debug\Inventory System.exe.config
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory System.csprojAssemblyReference.cache
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.AddImage.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.AddProduct.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.AddSupplier.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.DisplayProduct.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.DisplaySupplier.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.FormMenu.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.ProductSupplier.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.cache
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory System.exe
+C:\Users\Ronald\Downloads\Tugas W10B_Jevon_Valentino_160424066\Inventory System\obj\Debug\Inventory System.pdb
