@@ -33,10 +33,8 @@ namespace Inventory_System
         {
             string id = textBoxIDImage.Text;
             string name = textBoxFileName.Text;
-
             ProductImage newImage = new ProductImage(id, name);
-
-            SelectedProduct.ListImage.Add(newImage);
+            SelectedProduct.AddImage(newImage);
 
             listBoxOut.Items.AddRange(SelectedProduct.Display().Split('\n'));
             formUtama.SaveProduct(formUtama.defaultProductName);

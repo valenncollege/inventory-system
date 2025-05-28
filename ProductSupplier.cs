@@ -26,13 +26,13 @@ namespace Inventory_System
             comboBoxProduct.DisplayMember = "Name";
 
             comboBoxSupplier.DataSource = formUtama.listSupplier;
-            comboBoxSupplier.DisplayMember = "Nama";
+            comboBoxSupplier.DisplayMember = "Name";
         }
 
         private void buttonADD_Click(object sender, EventArgs e)
         {
             SelectedProduct.ListSupplier.Add(SelectedSupplier);
-
+            
             listBoxOut.Items.AddRange(SelectedProduct.Display().Split('\n'));
 
             formUtama.SaveProduct(formUtama.defaultProductName);

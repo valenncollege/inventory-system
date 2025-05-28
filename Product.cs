@@ -32,10 +32,9 @@ namespace Inventory_System
             this.ListSupplier = new List<Supplier>();
         }
 
-        public void AddImage(string inputId, string inputFileName)
+        public void AddImage(ProductImage img)
         {
-            ProductImage newImage = new ProductImage(inputId, inputFileName);
-            this.ListImage.Add(newImage);
+            this.ListImage.Add(img);
         }
         public string Display()
         {
